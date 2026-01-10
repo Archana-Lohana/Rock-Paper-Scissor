@@ -1,5 +1,6 @@
 # Rock Paper Scissors Game
 Live Demo: [View the Dashboard](https://archana-lohana.github.io/Rock-Paper-Scissor/)
+
 #Description
 
 A simple Rock-Paper-Scissors game built with HTML, CSS, and JavaScript.
